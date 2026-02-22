@@ -101,9 +101,10 @@ The platform enables proactive detection instead of post-fraud investigation.
 
 ## Team
 Team 404 Not Found  
--Sriman Keerthi
-- Ghousiya Begum  
-- Siri Adusumalli  
+
+ - Sriman Keerthi
+ - Ghousiya Begum  
+ - Siri Adusumalli  
 ---
 ## Vision
 
